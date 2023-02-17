@@ -63,7 +63,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #343a40;
+  color: #000000;
   text-align: left;
   background-color: #ffffff; }
 
@@ -5086,7 +5086,7 @@ footer a {
 
 /*Gradients*/
 .bg-gradient {
-  background: linear-gradient(#ffff00, #ffff4d); }
+  background: linear-gradient(#606022, #ff0000); }
 
 /*Code Window*/
 .code-window {
